@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejandroRM1103
+- 👋 Hi, I’m @Alejandro-RM
 - 👀 I’m interested in learning all about videogames programming and math things.
 - 🌱 I’m currently studying Matemáticas Aplicadas y Computación in Facultad de Estudios Superioeres Acatlán, UNAM.
 - 💞️ I’m looking to collaborate on videogames projects to learn more.
